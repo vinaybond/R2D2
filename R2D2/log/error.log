@@ -1,0 +1,1370 @@
+2015-07-08 18:14:11 [ERROR] Utilities:1322 -  Couldn't find element: //*[@id='main-content']/div/div/form/div[2]/div/div/div[1]/label[7]/input
+2015-07-08 18:14:11 [ERROR] Utilities:1322 -  Couldn't find element: //*[@id='main-content']/div/div/form/div[2]/div/div/div[1]/label[7]/input
+2015-07-08 18:22:26 [ERROR] Utilities:1269 - EXCEPTION: Exception Occured in findLocatorType: java.util.regex.PatternSyntaxException: Unclosed group near index 3
+(.*
+   ^
+2015-07-08 18:22:26 [ERROR] Utilities:1281 - ERROR: INVALID LOCATOR TYPE:  : signin
+2015-07-08 18:22:26 [ERROR] Utilities:1296 - EXCEPTION: in findLocator "By" : signin
+2015-07-08 18:22:26 [ERROR] Utilities:1322 -  Couldn't find element: signin
+2015-07-08 18:23:01 [ERROR] Utilities:728  - waitForTexxt for css=h1 Timed Out after waiting for 35 seconds.
+2015-07-08 18:30:10 [ERROR] Utilities:1269 - EXCEPTION: Exception Occured in findLocatorType: java.util.regex.PatternSyntaxException: Unclosed group near index 3
+(.*
+   ^
+2015-07-08 18:30:10 [ERROR] Utilities:1281 - ERROR: INVALID LOCATOR TYPE:  : signin
+2015-07-08 18:30:10 [ERROR] Utilities:1296 - EXCEPTION: in findLocator "By" : signin
+2015-07-08 18:30:10 [ERROR] Utilities:1322 -  Couldn't find element: signin
+2015-07-08 18:30:46 [ERROR] Utilities:728  - waitForTexxt for css=h1 Timed Out after waiting for 35 seconds.
+2015-07-08 18:53:13 [ERROR] Utilities:1269 - EXCEPTION: Exception Occured in findLocatorType: java.util.regex.PatternSyntaxException: Unclosed group near index 3
+(.*
+   ^
+2015-07-08 18:53:13 [ERROR] Utilities:1281 - ERROR: INVALID LOCATOR TYPE:  : signin
+2015-07-08 18:53:13 [ERROR] Utilities:1296 - EXCEPTION: in findLocator "By" : signin
+2015-07-08 18:53:13 [ERROR] Utilities:1322 -  Couldn't find element: signin
+2015-07-08 18:53:49 [ERROR] Utilities:728  - waitForTexxt for css=h1 Timed Out after waiting for 35 seconds.
+2015-07-09 09:33:42 [ERROR] Utilities:904  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-07-09 09:33:43 [ERROR] Utilities:1312 -  Couldn't find element: username
+2015-07-09 09:33:43 [ERROR] Utilities:1312 -  Couldn't find element: password
+2015-07-09 09:33:43 [ERROR] Utilities:1312 -  Couldn't find element: signin
+2015-07-09 09:33:43 [ERROR] Utilities:1312 -  Couldn't find element: css=h1
+2015-07-09 09:33:43 [ERROR] Utilities:904  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-07-09 09:33:43 [ERROR] Utilities:1312 -  Couldn't find element: name=switch-field-1
+2015-07-09 10:54:31 [ERROR] Utilities:734  - waitForTexxt for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 10:56:32 [ERROR] Utilities:736  - EXCEPTION: In waitForText for element: css=h1
+2015-07-09 10:56:32 [ERROR] Utilities:908  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-07-09 10:56:32 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-09 10:56:32 [ERROR] Utilities:922  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-07-09 10:57:19 [ERROR] Utilities:734  - waitForTexxt for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 11:27:07 [ERROR] Utilities:734  - waitForText for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 11:28:43 [ERROR] Utilities:734  - waitForText for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 12:05:14 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-09 12:05:14 [ERROR] Utilities:1316 -  Couldn't find element: name=switch-field-1
+2015-07-09 12:06:49 [ERROR] Utilities:734  - waitForText for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 12:08:07 [ERROR] Utilities:734  - waitForText for css=h1 Timed Out after waiting for 30 seconds.
+2015-07-09 12:09:36 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-09 12:09:36 [ERROR] Utilities:1316 -  Couldn't find element: name=switch-field-1
+2015-07-09 12:09:36 [ERROR] Utilities:1316 -  Couldn't find element: name=switch-field-1
+2015-07-09 12:18:20 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-09 12:18:20 [ERROR] Utilities:1316 -  Couldn't find element: name=switch-field-1
+2015-07-09 12:18:21 [ERROR] Utilities:1316 -  Couldn't find element: name=switch-field-1
+2015-07-09 12:23:17 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-09 15:38:26 [ERROR] Utilities:796  - EXCEPTION: In storeAttribute: name=switch-field-1
+2015-07-17 14:02:51 [ERROR] Utilities:1335 - ERROR: Invalid Locator type:  : adf
+2015-07-17 14:02:51 [ERROR] Utilities:1375 -  Couldn't find element: adf
+2015-07-17 14:04:41 [ERROR] Utilities:1335 - ERROR: Invalid Locator type "" adf
+2015-07-17 14:04:41 [ERROR] Utilities:1375 -  Couldn't find element: adf
+2015-07-17 14:08:22 [ERROR] Utilities:1379 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 15:56:44 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:17:22 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+98329	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1437129998330	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1437129998330	addons.xpi	INFO	Mapping {D19CA586-DD6C-4a0a-96F8-14644F340D60} to C:\Program Files\Common Files\McAfee\SystemCore
+1437129998330	addons.xpi	DEBUG	checkForChanges
+1437129998345	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous6944030748545880123webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437129979166,"mt":1437129978966}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437129998345	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1437129998355	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1437129998356	addons.xpi	DEBUG	getInstallState changed: false, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous6944030748545880123webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437129979166,"mt":1437129978966}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437129998359	addons.xpi	DEBUG	No changes found
+1437129998362	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1437129998363	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1437129998363	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Starting provider: GMPProvider
+1437129998369	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1437129998369	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1437129998369	addons.manager	DEBUG	Starting provider: PluginProvider
+1437129998369	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1437129998370	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1437129998370	addons.manager	DEBUG	Completed startup sequence
+1437129998479	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\SIDDHA~1.PAL\AppData\Local\Temp\anonymous6944030748545880123webdriver-profile\extensions.json
+1437129998480	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1437129998480	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1437129998481	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1437129999264	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1437129999264	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1437129999265	addons.xpi-utils	DEBUG	Successfully read XPI database
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+JavaScript error: file:///C:/Users/SIDDHA~1.PAL/AppData/Local/Temp/anonymous6944030748545880123webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js, line 11487: TypeError: this.server_ is undefined
+JavaScript error: chrome://fxdriver/content/server.js, line 38: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]
+
+Command duration or timeout: 66.58 seconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:946)
+	at automator.TMP.main(TMP.java:10)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+98329	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1437129998330	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1437129998330	addons.xpi	INFO	Mapping {D19CA586-DD6C-4a0a-96F8-14644F340D60} to C:\Program Files\Common Files\McAfee\SystemCore
+1437129998330	addons.xpi	DEBUG	checkForChanges
+1437129998345	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous6944030748545880123webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437129979166,"mt":1437129978966}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437129998345	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1437129998355	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1437129998356	addons.xpi	DEBUG	getInstallState changed: false, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous6944030748545880123webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437129979166,"mt":1437129978966}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437129998359	addons.xpi	DEBUG	No changes found
+1437129998362	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1437129998363	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1437129998363	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1437129998363	addons.manager	DEBUG	Starting provider: GMPProvider
+1437129998369	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1437129998369	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1437129998369	addons.manager	DEBUG	Starting provider: PluginProvider
+1437129998369	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1437129998370	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1437129998370	addons.manager	DEBUG	Completed startup sequence
+1437129998479	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\SIDDHA~1.PAL\AppData\Local\Temp\anonymous6944030748545880123webdriver-profile\extensions.json
+1437129998480	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1437129998480	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1437129998481	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1437129999264	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1437129999264	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1437129999265	addons.xpi-utils	DEBUG	Successfully read XPI database
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+JavaScript error: file:///C:/Users/SIDDHA~1.PAL/AppData/Local/Temp/anonymous6944030748545880123webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js, line 11487: TypeError: this.server_ is undefined
+JavaScript error: chrome://fxdriver/content/server.js, line 38: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]
+
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:118)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:114)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:193)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:186)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:104)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultDriverProvider.callConstructor(DefaultDriverProvider.java:59)
+	at org.openqa.selenium.remote.server.DefaultDriverProvider.newInstance(DefaultDriverProvider.java:53)
+	at org.openqa.selenium.remote.server.DefaultDriverFactory.newInstance(DefaultDriverFactory.java:54)
+	at org.openqa.selenium.remote.server.DefaultSession$BrowserCreator.call(DefaultSession.java:214)
+	at org.openqa.selenium.remote.server.DefaultSession$BrowserCreator.call(DefaultSession.java:1)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:168)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR] 2015-07-17 16:17:22 - java.lang.NullPointerException
+[ERROR] 2015-07-17 16:17:22 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:18:13 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:946)
+	at automator.TMP.main(TMP.java:10)
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerGet(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession.execute(DefaultSession.java:175)
+	at org.openqa.selenium.remote.server.DefaultSession.<init>(DefaultSession.java:111)
+	at org.openqa.selenium.remote.server.DefaultSession.createSession(DefaultSession.java:88)
+	at org.openqa.selenium.remote.server.DefaultDriverSessions.newSession(DefaultDriverSessions.java:108)
+	at org.openqa.selenium.remote.server.handler.NewSession.handle(NewSession.java:57)
+	at org.openqa.selenium.remote.server.handler.NewSession.handle(NewSession.java:1)
+	at org.openqa.selenium.remote.server.rest.ResultConfig.handle(ResultConfig.java:112)
+	at org.openqa.selenium.remote.server.JsonHttpCommandHandler.handleRequest(JsonHttpCommandHandler.java:172)
+	at org.openqa.selenium.remote.server.DriverServlet.handleRequest(DriverServlet.java:201)
+	at org.openqa.selenium.remote.server.DriverServlet.doPost(DriverServlet.java:163)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.openqa.selenium.remote.server.DriverServlet.service(DriverServlet.java:129)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.openqa.jetty.jetty.servlet.ServletHolder.handle(ServletHolder.java:428)
+	at org.openqa.jetty.jetty.servlet.ServletHandler.dispatch(ServletHandler.java:680)
+	at org.openqa.jetty.jetty.servlet.ServletHandler.handle(ServletHandler.java:571)
+	at org.openqa.jetty.http.HttpContext.handle(HttpContext.java:1526)
+	at org.openqa.jetty.http.HttpContext.handle(HttpContext.java:1479)
+	at org.openqa.jetty.http.HttpServer.service(HttpServer.java:920)
+	at org.openqa.jetty.http.HttpConnection.service(HttpConnection.java:820)
+	at org.openqa.jetty.http.HttpConnection.handleNext(HttpConnection.java:986)
+	at org.openqa.jetty.http.HttpConnection.handle(HttpConnection.java:837)
+	at org.openqa.jetty.http.SocketListener.handleConnection(SocketListener.java:243)
+	at org.openqa.jetty.util.ThreadedServer.handle(ThreadedServer.java:358)
+	at org.openqa.jetty.util.ThreadPool$PoolThread.run(ThreadPool.java:537)
+[ERROR] 2015-07-17 16:18:13 - java.lang.NullPointerException
+[ERROR] 2015-07-17 16:18:13 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session Error forwarding the request 172.16.4.15:5555 failed to respond
+Command duration or timeout: 35.12 seconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:946)
+	at automator.TMP.main(TMP.java:10)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Error forwarding the request 172.16.4.15:5555 failed to respond
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-17 16:18:13 - java.lang.NullPointerException
+[ERROR] 2015-07-17 16:18:13 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:18:13 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:21:49 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+Command duration or timeout: 235 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:946)
+	at automator.TMP.main(TMP.java:10)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-17 16:21:49 - java.lang.NullPointerException
+[ERROR] 2015-07-17 16:21:49 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:23:21 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+56730	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1437130356730	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1437130356731	addons.xpi	INFO	Mapping {D19CA586-DD6C-4a0a-96F8-14644F340D60} to C:\Program Files\Common Files\McAfee\SystemCore
+1437130356731	addons.xpi	DEBUG	checkForChanges
+1437130356731	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous4062890480135622771webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437130345777,"mt":1437130345626}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437130356732	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1437130356742	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1437130356743	addons.xpi	DEBUG	getInstallState changed: false, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous4062890480135622771webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437130345777,"mt":1437130345626}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437130356745	addons.xpi	DEBUG	No changes found
+1437130356749	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1437130356749	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1437130356749	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1437130356749	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1437130356750	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1437130356750	addons.manager	DEBUG	Starting provider: GMPProvider
+1437130356756	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1437130356756	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1437130356756	addons.manager	DEBUG	Starting provider: PluginProvider
+1437130356757	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1437130356757	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1437130356757	addons.manager	DEBUG	Completed startup sequence
+1437130356859	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\SIDDHA~1.PAL\AppData\Local\Temp\anonymous4062890480135622771webdriver-profile\extensions.json
+1437130356861	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1437130356861	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1437130356861	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1437130357167	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1437130357167	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1437130357168	addons.xpi-utils	DEBUG	Successfully read XPI database
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+JavaScript error: file:///C:/Users/SIDDHA~1.PAL/AppData/Local/Temp/anonymous4062890480135622771webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js, line 11487: TypeError: this.server_ is undefined
+JavaScript error: chrome://fxdriver/content/server.js, line 38: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]
+
+Command duration or timeout: 58.15 seconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:946)
+	at automator.TMP.main(TMP.java:10)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+56730	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1437130356730	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1437130356731	addons.xpi	INFO	Mapping {D19CA586-DD6C-4a0a-96F8-14644F340D60} to C:\Program Files\Common Files\McAfee\SystemCore
+1437130356731	addons.xpi	DEBUG	checkForChanges
+1437130356731	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous4062890480135622771webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437130345777,"mt":1437130345626}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437130356732	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+1437130356742	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1437130356743	addons.xpi	DEBUG	getInstallState changed: false, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\SIDDHA~1.PAL\\AppData\\Local\\Temp\\anonymous4062890480135622771webdriver-profile\\extensions\\fxdriver@googlecode.com","e":true,"v":"2.44.0","st":1437130345777,"mt":1437130345626}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","e":true,"v":"38.0.5","st":1435817851213,"mt":1432596056000}},"winreg-app-global":{"{D19CA586-DD6C-4a0a-96F8-14644F340D60}":{"d":"C:\\Program Files\\Common Files\\McAfee\\SystemCore","e":false,"v":"IDS_SS_VERSION","st":1436846254752,"mt":1374485514885}}}
+1437130356745	addons.xpi	DEBUG	No changes found
+1437130356749	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1437130356749	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1437130356749	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1437130356749	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1437130356750	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1437130356750	addons.manager	DEBUG	Starting provider: GMPProvider
+1437130356756	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1437130356756	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1437130356756	addons.manager	DEBUG	Starting provider: PluginProvider
+1437130356757	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1437130356757	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1437130356757	addons.manager	DEBUG	Completed startup sequence
+1437130356859	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\SIDDHA~1.PAL\AppData\Local\Temp\anonymous4062890480135622771webdriver-profile\extensions.json
+1437130356861	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1437130356861	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1437130356861	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1437130357167	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1437130357167	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1437130357168	addons.xpi-utils	DEBUG	Successfully read XPI database
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+JavaScript error: file:///C:/Users/SIDDHA~1.PAL/AppData/Local/Temp/anonymous4062890480135622771webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js, line 11487: TypeError: this.server_ is undefined
+JavaScript error: chrome://fxdriver/content/server.js, line 38: NS_ERROR_XPC_CI_RETURNED_FAILURE: Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]
+
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:118)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:114)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:193)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:186)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:104)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultDriverProvider.callConstructor(DefaultDriverProvider.java:59)
+	at org.openqa.selenium.remote.server.DefaultDriverProvider.newInstance(DefaultDriverProvider.java:53)
+	at org.openqa.selenium.remote.server.DefaultDriverFactory.newInstance(DefaultDriverFactory.java:54)
+	at org.openqa.selenium.remote.server.DefaultSession$BrowserCreator.call(DefaultSession.java:214)
+	at org.openqa.selenium.remote.server.DefaultSession$BrowserCreator.call(DefaultSession.java:1)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:168)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR] 2015-07-17 16:23:21 - java.lang.NullPointerException
+[ERROR] 2015-07-17 16:23:21 -  Couldn't find element: name=adf
+[ERROR] 2015-07-17 16:39:43 -  Couldn't find element: name=adf
+[ERROR] 2015-07-20 13:02:42 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.net.MalformedURLException
+	at java.net.URL.<init>(URL.java:619)
+	at java.net.URL.<init>(URL.java:482)
+	at java.net.URL.<init>(URL.java:431)
+	at automator.Utilities.loadBrowser(Utilities.java:212)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:44)
+Caused by: java.lang.NullPointerException
+	at java.net.URL.<init>(URL.java:524)
+	... 5 more
+[ERROR] 2015-07-20 13:02:42 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:02:42 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:02:42 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:24:26 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session Empty pool of VM for setup Capabilities [{}]
+Command duration or timeout: 214 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:44)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Empty pool of VM for setup Capabilities [{}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-20 13:24:26 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:24:26 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:24:26 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:30:38 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:44)
+[ERROR] 2015-07-20 13:30:38 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:30:38 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:30:38 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:30:51 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:44)
+[ERROR] 2015-07-20 13:30:51 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:30:51 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:30:52 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:31:44 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.TMP.main(TMP.java:44)
+[ERROR] 2015-07-20 13:31:49 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:46)
+[ERROR] 2015-07-20 13:31:49 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:31:49 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:31:49 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:41:05 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+Command duration or timeout: 237 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.TMP.main(TMP.java:44)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-20 13:41:10 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:217)
+	at automator.Utilities.open(Utilities.java:951)
+	at automator.TMP.main(TMP.java:46)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session cannot find : Capabilities [{browserName=firefox}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-20 13:41:10 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:41:10 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:41:11 -  Couldn't find element: name=password
+[ERROR] 2015-07-20 13:56:19 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session Empty pool of VM for setup Capabilities [{browserName=firefox}]
+Command duration or timeout: 250 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:218)
+	at automator.TMP.main(TMP.java:44)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Empty pool of VM for setup Capabilities [{browserName=firefox}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-20 13:56:24 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+org.openqa.selenium.WebDriverException: Error forwarding the new session Empty pool of VM for setup Capabilities [{browserName=firefox}]
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:240)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:126)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:153)
+	at automator.Utilities.loadBrowser(Utilities.java:218)
+	at automator.Utilities.open(Utilities.java:952)
+	at automator.TMP.main(TMP.java:46)
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Empty pool of VM for setup Capabilities [{browserName=firefox}]
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:114)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:83)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:67)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:820)
+	at org.seleniumhq.jetty7.servlet.ServletHolder.handle(ServletHolder.java:565)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doHandle(ServletHandler.java:479)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doHandle(SessionHandler.java:225)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doHandle(ContextHandler.java:1031)
+	at org.seleniumhq.jetty7.servlet.ServletHandler.doScope(ServletHandler.java:406)
+	at org.seleniumhq.jetty7.server.session.SessionHandler.doScope(SessionHandler.java:186)
+	at org.seleniumhq.jetty7.server.handler.ContextHandler.doScope(ContextHandler.java:965)
+	at org.seleniumhq.jetty7.server.handler.ScopedHandler.handle(ScopedHandler.java:117)
+	at org.seleniumhq.jetty7.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111)
+	at org.seleniumhq.jetty7.server.Server.handle(Server.java:349)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:452)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:47)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection.content(AbstractHttpConnection.java:894)
+	at org.seleniumhq.jetty7.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:948)
+	at org.seleniumhq.jetty7.http.HttpParser.parseNext(HttpParser.java:857)
+	at org.seleniumhq.jetty7.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.seleniumhq.jetty7.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:66)
+	at org.seleniumhq.jetty7.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:254)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:599)
+	at org.seleniumhq.jetty7.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:534)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2015-07-20 13:56:24 - java.lang.NullPointerException
+[ERROR] 2015-07-20 13:56:24 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-20 13:56:24 -  Couldn't find element: name=password
+[ERROR] 2015-07-21 08:34:33 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:34:33 - EXCEPTION: In waitForElementPresent for element: id=textbox
+[ERROR] 2015-07-21 08:34:33 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:34:33 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:37:38 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:37:38 - EXCEPTION: In waitForElementPresent for element: id=textbox
+[ERROR] 2015-07-21 08:37:38 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:37:38 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:40:10 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:40:10 - EXCEPTION: In waitForElementPresent for element: id=textbox
+[ERROR] 2015-07-21 08:40:10 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:40:10 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:42:21 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:42:21 - EXCEPTION: In waitForElementPresent for element: id=textbox
+[ERROR] 2015-07-21 08:42:21 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:42:21 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:43:03 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:43:03 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:43:52 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:43:52 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:50:54 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:50:54 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 08:54:32 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 08:54:32 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 09:19:44 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 09:19:44 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 09:29:09 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 18:30:13 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 18:30:13 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 18:30:16 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 18:30:16 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 18:30:57 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 18:30:57 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 18:31:01 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 18:31:01 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 18:31:28 - EXCEPTION: Exception Occured in findLocatorType: java.io.FileNotFoundException:  (No such file or directory)
+[ERROR] 2015-07-21 18:31:28 -  Couldn't find element: id=textbox
+[ERROR] 2015-07-21 19:07:40 -  Couldn't find element: link=Syntax
+[ERROR] 2015-07-21 19:07:41 -  Couldn't find element: link=Checkboxes
+[ERROR] 2015-07-21 19:07:41 -  Couldn't find element: link=CSS tutorial
+[ERROR] 2015-07-21 19:08:06 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 139 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 48f94646-9336-40aa-9e38-ef4a7eac67c5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:08:06 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 82 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 48f94646-9336-40aa-9e38-ef4a7eac67c5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:08:06 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 76 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 48f94646-9336-40aa-9e38-ef4a7eac67c5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:08:09 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 81 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 8646990f-bc15-4012-9aed-3bf07a85ddb5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:08:10 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 185 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 8646990f-bc15-4012-9aed-3bf07a85ddb5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:08:10 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 74 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 8646990f-bc15-4012-9aed-3bf07a85ddb5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:18 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 84 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:18 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 89 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:18 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 72 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:21 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 113 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:21 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 141 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:21 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 309 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:21 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 154 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:22 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 79 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:22 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 107 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:22 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 110 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:23 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 165 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:23 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 135 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:24 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 107 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:24 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 144 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:24 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 168 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:25 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 139 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:25 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 121 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:25 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 155 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:26 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 148 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:26 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 131 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:26 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 143 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:27 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 123 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:27 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 120 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:27 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 95 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 018a09f1-e61f-46c2-b69b-4258353b67f3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:28 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 111 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:28 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 122 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:28 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 81 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:29 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 105 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:29 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 86 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:10:30 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 87 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 0039c610-0517-46b0-b44c-4a31566dac41
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:39 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 81 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:39 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 86 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:39 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 125 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:41 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 94 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:42 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 102 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:42 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 95 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:43 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 140 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:43 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 171 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:44 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 145 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:44 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 147 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:44 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 135 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:44 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 147 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:45 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 100 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:45 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 98 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:46 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 90 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:46 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 148 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:47 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 130 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:47 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 130 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:47 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 109 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:47 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 203 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:47 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 139 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 5ec6a180-6f26-4dd3-a9e6-296e68ea5be7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:48 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 79 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:49 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 99 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:49 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 112 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:50 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 106 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:50 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 166 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:51 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 94 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:51 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 100 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:52 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 86 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-21 19:13:52 - org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 96 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8', time: '2015-02-26 23:59:50'
+System info: host: 'vinaykumar-patel', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'i386', os.version: '3.13.0-45-generic', java.version: '1.7.0_79'
+Session ID: 1913b602-d5ab-436a-8091-63a448af850d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=35.0.1}]
+[ERROR] 2015-07-31 16:30:33 - Exception: Please check if Selenium Grid Hub is reachable
+[ERROR] 2015-07-31 16:30:57 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.TMP.main(TMP.java:48)
+[ERROR] 2015-07-31 16:31:02 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.Utilities.open(Utilities.java:1014)
+	at automator.TMP.main(TMP.java:50)
+[ERROR] 2015-07-31 16:31:02 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:31:02 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:31:02 -  Couldn't find element: name=password
+[ERROR] 2015-07-31 16:31:03 - Exception: Please check if Selenium Grid Hub is reachable
+[ERROR] 2015-07-31 16:31:59 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.TMP.main(TMP.java:48)
+[ERROR] 2015-07-31 16:32:04 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.Utilities.open(Utilities.java:1014)
+	at automator.TMP.main(TMP.java:50)
+[ERROR] 2015-07-31 16:32:04 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:32:04 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:32:04 -  Couldn't find element: name=password
+[ERROR] 2015-07-31 16:32:12 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.TMP.main(TMP.java:48)
+[ERROR] 2015-07-31 16:32:17 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.Utilities.open(Utilities.java:1014)
+	at automator.TMP.main(TMP.java:50)
+[ERROR] 2015-07-31 16:32:17 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:32:17 - Exception: Please check if Selenium Grid Hub is reachable
+[ERROR] 2015-07-31 16:32:27 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:32:27 -  Couldn't find element: name=password
+[ERROR] 2015-07-31 16:32:42 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.TMP.main(TMP.java:48)
+[ERROR] 2015-07-31 16:32:47 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.Utilities.open(Utilities.java:1014)
+	at automator.TMP.main(TMP.java:50)
+[ERROR] 2015-07-31 16:32:47 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:32:47 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:32:47 -  Couldn't find element: name=password
+[ERROR] 2015-07-31 16:33:18 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.TMP.main(TMP.java:48)
+[ERROR] 2015-07-31 16:33:23 - EXCEPTION: In loadBrowser. Please check the dependancies are available: 
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:94)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:70)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:44)
+	at automator.Utilities.loadBrowser(Utilities.java:278)
+	at automator.Utilities.open(Utilities.java:1014)
+	at automator.TMP.main(TMP.java:50)
+[ERROR] 2015-07-31 16:33:23 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:33:23 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:33:24 -  Couldn't find element: name=password
+[ERROR] 2015-07-31 16:34:23 - Exception: Please check if Selenium Grid Hub is reachable
+[ERROR] 2015-07-31 16:34:23 - java.lang.NullPointerException
+[ERROR] 2015-07-31 16:34:23 -  Couldn't find element: name=userEmail
+[ERROR] 2015-07-31 16:34:23 -  Couldn't find element: name=password

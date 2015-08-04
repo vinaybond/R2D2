@@ -1,0 +1,49 @@
+<project name="TestNGTest" default="run" basedir=".">
+
+  <taskdef name="testng" classname="org.testng.TestNGAntTask">
+    <classpath>
+      <pathelement location="lib/testng-6.8.8.jar"/>
+    </classpath>
+  </taskdef>
+
+   <property name="bindir" location="bin" />
+   <property name="srcdir" location="src" />
+   <property name="libdir" location="lib" />
+   <property name="output" location="test-output" />
+   <property name="full-compile" value="true" />
+
+   <path id="classpath.test">
+      <fileset dir="${libdir}" includes="**/*.jar" />
+      <pathelement location="${bindir}" />
+      <pathelement location="${srcdir}" />
+   </path>
+
+   <target name="clean" >
+      <delete verbose="${full-compile}">
+         <fileset dir="${bindir}" includes="**/*.class" />
+      </delete>
+   </target>
+
+   <target name="compile" depends="clean">
+      <javac srcdir="${srcdir}" destdir="${bindir}" 
+         verbose="${full-compile}">
+         <classpath refid="classpath.test"/>
+      </javac>
+   </target>
+
+   <target name="run" depends="compile">
+	<testng outputdir="${output}" classpathref="classpath.test"> 
+      <xmlfileset dir="${srcdir}" includes="testng.xml"/> 
+    </testng>
+   </target>
+
+   <target name="xslt">
+     <xslt in="test-output/testng-results.xml" style="testng-results.xsl" out="${basedir}/testng-xslt/index.html">
+            <param expression="${basedir}/testng-xslt/" name="testNgXslt.outputDir" />
+            <param expression="true" name="testNgXslt.sortTestCaseLinks" />
+            <param expression="FAIL,SKIP,PASS,CONF,BY_CLASS" name="testNgXslt.testDetailsFilter" />
+            <param expression="true" name="testNgXslt.showRuntimeTotals" />
+            <classpath refid="classpath.test"/>
+        </xslt>
+    </target>
+</project>
